@@ -1,6 +1,8 @@
 # Zomato-Data-analysis
 
-In this project We have performed exploratory data analysis on zomato data set and drawn some meaningful visualizations and information using MongoDb, a recomendation system for hotel suggestion deployed on Streamlit platform
+In this project We have performed exploratory data analysis on zomato data set and drawn some meaningful visualizations and information using MongoDb, a recomendation system for hotel suggestion deployed on Streamlit platform.
+
+Demo Link - https://drive.google.com/file/d/1scwS5V8fc-ogCTVg1k_cD6TegDqRRPG5/view?usp=sharing
 
 ## About Dataset
 
