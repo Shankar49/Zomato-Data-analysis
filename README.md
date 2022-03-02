@@ -5,8 +5,9 @@ In this project We have performed exploratory data analysis on zomato data set a
 ## About Dataset
 
 
-    url : contains the url of the restaurant in the zomato website
-    address : contains the address of the restaurant in Bengaluru
+*url : contains the url of the restaurant in the zomato website
+    
+*address : contains the address of the restaurant in Bengaluru
     name : contains the name of the restaurant
     online_order : whether online ordering is available in the restaurant or not
     book_table : table book option available or not
