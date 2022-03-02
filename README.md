@@ -27,5 +27,20 @@ In this project We have performed exploratory data analysis on zomato data set a
 
 ## Analysed Questions
 
-> Blockquote
->> Nested Blockquote
+1. Number of hotels in Bangalore
+2. Number of orders in each Location
+3. Liked Dishes
+4. Number of orders in each hotel in Bangalore
+5. Number of votes for each hotel
+6. Hotels with Menu
+7. About table booking and online ordering
+8. Number of orders in each hotel in each Area in Bangalore
+9. Cuisines available in each hotel
+10. Cost effcient and quality hotels (Based on Rating and Cost)
+11. Types of hotels
+12. Best rated hotels
+
+## Recomendation system 
+we also build a recommentation system to give the list of hotels that ate similar to out input. For example, if a user need to find a hotel in the Bangaluru location similar to hotel Sultan's Briyani, the system recommond hotels like Ambur Briyani Classic, Pot Biryani, Pallavi Restaurent, etc.. Along with the hotel rating and cost per two peoples. 
+
+This recomendation was based upon Available cuisines, Mean Rating, Cost and Customer reviews.
