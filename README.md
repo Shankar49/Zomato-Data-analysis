@@ -4,11 +4,8 @@ In this project We have performed exploratory data analysis on zomato data set a
 
 ## About Dataset
 
-
-* url : contains the url of the restaurant in the zomato website
-    
-* address : contains the address of the restaurant in Bengaluru
-    
+* url : contains the url of the restaurant in the zomato website   
+* address : contains the address of the restaurant in Bengaluru   
 * name : contains the name of the restaurant
 * online_order : whether online ordering is available in the restaurant or not
 * book_table : table book option available or not
@@ -25,7 +22,7 @@ In this project We have performed exploratory data analysis on zomato data set a
 * listed_in(type) : type of meal
 * listed_in(city) : contains the neighborhood in which the restaurant is listed
 
-## Analysed Questions
+## Analysed Topics
 
 1. Number of hotels in Bangalore
 2. Number of orders in each Location
